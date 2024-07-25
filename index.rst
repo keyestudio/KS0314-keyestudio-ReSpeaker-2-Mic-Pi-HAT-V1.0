@@ -1,10 +1,10 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyestudio docs
+   :caption: KS0314 keyestudio ReSpeaker 2-Mic Pi HAT V1.0
 
    README.md
-   docs/keyestudio/index
+   docs/KS0314.md
 
 
 
