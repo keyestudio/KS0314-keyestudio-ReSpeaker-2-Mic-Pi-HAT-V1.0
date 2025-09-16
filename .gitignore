@@ -8,10 +8,12 @@ Thumbs.db
 *.pdf
 *.mts
 *.mov
-*.mp4
+
 *.flv
+*.log
+*.APK
 .vscode
-_build
+.DS_Store
 
 /tmpX/
 /_build/
